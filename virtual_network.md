@@ -1,3 +1,8 @@
+---
+tags:virtual_network
+---
+
+# Azure Virtual Network
 [Link](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
 
 - Is free of charge
@@ -15,5 +20,3 @@
 	- public load balancer
 ## Communication between Azure resources
 ## Communicate with on-premises resources
-
-

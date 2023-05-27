@@ -6,7 +6,7 @@ Is fully managed.
 
 
 ### [Flexible server](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/overview)
-- Allows full private access -[[Azure virtual network]]
+- Allows full private access -[[virtual_network]]
 
 ### Performance options
 - [-] **Burst**
