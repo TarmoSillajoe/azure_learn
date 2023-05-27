@@ -8,9 +8,12 @@ Is fully managed.
 - Allows full private access -[[Azure virtual network]]
 
 ### Performance options
-#### Burstable
-#### General Purpose
-#### Memory Optimized
+- [-] **Burst**
+   - For low cost development
+   - For low concurrency workloads
+   - The compute tier billing is stopped immediately when the server is stopped
+- [ ] General Purpose
+- [ ] Memory Optimized
 
 
 
