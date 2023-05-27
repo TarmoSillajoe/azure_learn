@@ -5,6 +5,15 @@
 - A resource can be assigned a public ip
 
 ## Communicate with the Internet
-- 
-### Communication between Azure resources
+- All services can [communicate outbound](outbound_connection.md) to the internet, by default
+- You can communicate inbound to a resource via
+	- [public IP address](public_ip.md)
+	- public load balancer
+- Manage your outbound resources by:
+	- public IP
+	- [NAT gateway](nat_gateway.md)
+	- public load balancer
+## Communication between Azure resources
+## Communicate with on-premises resources
+
 

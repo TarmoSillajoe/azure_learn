@@ -1,3 +1,4 @@
+# Azure Database for PostgreSQL - Flexible Server
 Is fully managed.
 ## Deployment models
 ### Single server
