@@ -10,7 +10,7 @@ tags: virtual_network
 - A resource can be assigned a public ip
 
 ## Communicate with the Internet
-- All services can [communicate outbound](outbound_connection.md) to the internet, by default
+- All services can [communicate outbound](outbound%20connection.md) to the internet, by default
 - You can communicate inbound to a resource via
 	- [public IP address](public_ip.md)
 	- public load balancer
