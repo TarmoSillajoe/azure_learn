@@ -1,3 +1,3 @@
 ---
-tags:virtual_network
+tags: virtual_network
 ---

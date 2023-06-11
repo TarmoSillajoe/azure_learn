@@ -1,5 +1,5 @@
 ---
-tags:virtual_network
+tags: virtual_network
 ---
 [link]([Default outbound access in Azure - Azure Virtual Network | Microsoft Learn](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/default-outbound-access))
 
